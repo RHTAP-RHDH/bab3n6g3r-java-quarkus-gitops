@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bab3n6g3r-java-quarkus-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/bab3n6g3r-java-quarkus
